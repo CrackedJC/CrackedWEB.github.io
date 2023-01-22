@@ -1,0 +1,30 @@
+header {
+    background-color: #2c2c2c;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Minecraftory', sans-serif;
+}
+
+header h1 {
+    margin: 0px;
+    font-size: 52px;
+    color: rgb(255, 255, 255);
+}
+
+header h2 {
+    margin: 0px;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+}
+
+header nav a {
+    display: inline-block;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size : 14px;
+    
+}
+header nav a:hover {
+    color: blue;
+}
